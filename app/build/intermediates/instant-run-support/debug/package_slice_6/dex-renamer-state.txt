@@ -1,0 +1,4 @@
+#Wed Jan 17 06:49:33 MSK 2018
+base.0=C\:\\Users\\vladimir.iljin\\Desktop\\Gestures\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex

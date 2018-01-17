@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\vladimir.iljin\\Desktop\\Gestures\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\vladimir.iljin\\Desktop\\Gestures\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "4,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "157,448",
+                        "endLines": "10,13",
+                        "endColumns": "12,12",
+                        "endOffsets": "443,603"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\vladimir.iljin\\Desktop\\Gestures\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "58,108",
+                        "endColumns": "48,52",
+                        "endOffsets": "102,156"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,104",
+                        "endColumns": "48,52",
+                        "endOffsets": "99,152"
+                    }
+                }
+            ]
+        }
+    ]
+}
